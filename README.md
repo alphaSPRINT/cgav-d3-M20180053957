@@ -1,2 +1,5 @@
 # alpoo
-Algoritmo e Linguagem de Programação Orientada a Objetos
+COMPUTACAO GRAFICA E AMBIENTES VIRTUAIS
+
+VISUALIZACAO
+D3 LIBRARY
