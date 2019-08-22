@@ -1,3 +1,20 @@
-h1 {
-  color: fuchsia;
+<style>	
+path {
+    stroke: steelblue;
+    stroke-width: 3;
+    fill: none;
 }
+line {
+    stroke: black;
+}
+.xGrids {
+	stroke: lightgray;
+}
+.yGrids {
+	stroke: lightgray;
+}
+text {
+    font-family: Verdana;
+    font-size: 9pt;
+}
+</style>
